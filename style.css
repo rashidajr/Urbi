@@ -1,0 +1,10 @@
+#top-banner{
+    display: flex;
+}
+.first-header h1{
+ font-size: 40px;
+}
+.first-header span{
+    color: blue;
+}
+
