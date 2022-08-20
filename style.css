@@ -1,10 +1,151 @@
-#top-banner{
+.top-banner{
     display: flex;
 }
-.first-header h1{
- font-size: 40px;
+.first-header {
+    width: 40%;
+    margin: 0px 20px;
+    padding: 0px 20px;
 }
-.first-header span{
+.first-header h1 {
+font-size: 50px;
+background-color: blanchedalmond;
+
+}
+.first-header span {
+    color: blue;
+    font-style: italic;
+}
+.first-header p{
+    background-color: aqua;
+    font-family: cursive;
+    color: red;
+}
+.first-header img{
+    width: 60%;
+}
+.first-header h1{
+    text-align: center; 
+}
+.om {
+    background-color: darkorchid;
+    font-size: 20px;
+
+}
+.middle-banner{
+    display: flex;
+}
+.second-header span{
+color: orange;
+}
+.second-header h1{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: inherit;
+}
+.second-header h3{
+    font-size: 20px;
+    color: lawngreen;
+    font-style: italic;
+    
+}
+.second-header p{
+    background-color: brown;
+    color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+    margin: 0px 20px;
+    padding: 0px 20px;
+}
+.second-header button{
+    background-color: green;
+    color: yellow;
+}
+   .apple img{
+width: 90%;
+   }
+    
+.third-banner{
+    display: flex;
+}
+.third-header table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: blue;
+    color: cyan;
+    width: 100%;
+}
+.lichi p{
+    width:60%;
+    background-color: rosybrown;
+    color: gold;
+
+}
+.forth-banner {
+     display: flex;
+}
+.mango img{
+    width: 30%;
+}
+.pink h1 span{
+    color: tomato;
+}
+.pink p{
+    width: 400px;
+    background-color: chartreuse;
+    color: darkorchid;
+    border: 2px solid red;
+    padding: 0px 2opx;
+    text-align: center;
+    
+}
+.last-banner{
+    display: flex;
+}
+.last-header h1{
+    font-size: 50px;
+
+}
+.last-header h2{
+    font-size: 30px;
+}
+.last-header h3{
+    color: orange;
+}
+.last-header{
+    border-left: 5px solid red;
+    margin: 0px 20px;
+    padding: 0px 20px;
+    width: 70%;
+    background-color: aquamarine;
+}
+.last-header p{
+width: 500px;
+background-color: blanchedalmond;
+color: blueviolet;
+text-align: center;
+}
+.nut h1{
+    font-size: 40px;
+    font-family: monospace;
+    color: deeppink;
+}
+.nut h3{
+    color: gold;
+}
+.nut{
+    width: 70%;
+    margin: 0px 20px;
+    padding: 0px 20px;
+    border-left: 5px solid red;
+    background-color: azure;
+}
+.nut p{
+    width: 500px;
+    background-color: darkred;
+    color: cyan;
+    text-align: center;
+}
+.top p{
+    text-align: center;
     color: blue;
 }
-
